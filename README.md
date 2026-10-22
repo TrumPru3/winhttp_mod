@@ -1,4 +1,4 @@
 # winhttp_mod
 Moded WinHttp Library.
 
-(outdated project, dont works)
+DONT USE WITH NORMAL WINDOWS PC!!! ITS FOR SPECIAL SOFTWARE AND HARDWARE
